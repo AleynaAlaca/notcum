@@ -16,7 +16,7 @@ Database: PostgreSQL
 Nasıl Çalıştırılır?
 Projeyi klonla:
 
-git clone https://github.com/azrairemd/notcum.git
+git clone https://github.com/AleynaAlaca/notcum.git
 Backend’i çalıştır:
 
 Java 17+ kurulu olduğundan emin ol.
